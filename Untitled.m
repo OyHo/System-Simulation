@@ -1,1 +1,5 @@
-%%sdadasdsa
+%%sdadasdsa 
+
+x = 0; 
+
+%sdass
