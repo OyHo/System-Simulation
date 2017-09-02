@@ -142,7 +142,7 @@ for t=0:dt:time % sekund
         
     end
    
-    %% Euler 2 difflign.%%
+    %% Euler 2 difflign.
     nq(1)=p(N)/I(N)-p(1)/I(1);
     np(1)=e(1)+q(1)/C(1)-q(2)/C(2)-(p(1)/I(1))*Rn(1);
     ne(1)=a_const*(p(1)/I(1)-v0);
