@@ -1,3 +1,3 @@
 # System-Simulation
 
-Simulation of physical systems using differential schemes.
+Simulation of physical systems using numerical methods.
